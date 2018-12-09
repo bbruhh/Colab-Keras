@@ -3,7 +3,6 @@ Demo Tutorial to Build a Convolutional Neural Network with keras+google drive an
 
 This guide is meant to be a simple tutorial which lets you take images classes, train a model with keras+tensorflow and then predict a new image with your "intelligent" model.
 
-Here is further explanation in a short medium post: https://medium.com/@chibuk/machine-learning-for-the-everyday-person-part-3-your-first-neural-network-744528595c65
 
 You can use this python script to get sample training images from a website: https://github.com/ibbad/image-scrapper
 
